@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="title">íslenska Conversion</string>
+    <string name="txtHint">Enter Amount</string>
+    <string name="txtDollarToKróna">$$→kr</string>
+    <string name="txtKrónaToDollar">$$←kr</string>
+    <string name="txtBtnResult">Convert!</string>
+</resources>
